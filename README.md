@@ -7,8 +7,8 @@ The dashboard will include responsive layouts, interactive charts, and CMS‑rea
 
 ## Core Goals
 
+- [x] Apply utility‑first styling using Tailwind CSS
 - [ ] Build a reusable component library with PrimeVue
-- [ ] Apply utility‑first styling using Tailwind CSS
 - [ ] Document components in Storybook with interactive controls
 - [ ] Ensure quality with unit & E2E testing (Vitest + Playwright)
 - [ ] Maintain accessibility (ARIA roles, keyboard navigation)
