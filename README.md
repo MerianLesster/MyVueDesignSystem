@@ -1,6 +1,20 @@
 # MyVueDesignSystem
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is my ongoing goal to build a Vue 3‑powered design system and dashboard that demonstrates modern frontend engineering practices.
+Built with `Vue 3` `PrimeVue`, `Tailwind CSS`, and `Storybook`, it aims to show how to create reusable, accessible UI components, document them effectively, and test them with `Vitest` and `Playwright`.
+
+The dashboard will include responsive layouts, interactive charts, and CMS‑ready content areas, making it a solid example of how to structure and maintain scalable design systems for real‑world applications.
+
+## Core Goals
+
+- [ ] Build a reusable component library with PrimeVue
+- [ ] Apply utility‑first styling using Tailwind CSS
+- [ ] Document components in Storybook with interactive controls
+- [ ] Ensure quality with unit & E2E testing (Vitest + Playwright)
+- [ ] Maintain accessibility (ARIA roles, keyboard navigation)
+- [ ] Prepare for CI/CD with GitHub Actions
+
+🚧 Status: Work in Progress – Actively developing and adding features regularly.
 
 ## Recommended IDE Setup
 
