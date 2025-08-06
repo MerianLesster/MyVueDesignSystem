@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Welcome to Your MERIAN's Vue App</h1>
-    <Button label="Click Me" @click="increment" icon="pi pi-plus" />
+    <VButton label="HOMEVIEW" @click="increment"></VButton>
     <p>Counter: {{ count }}</p>
 
     <div class="flex flex-col gap-12">
@@ -27,7 +27,7 @@
 </template>
 
 <script lang="ts" setup>
-import Button from 'primevue/button'
+import VButton from '@/stories/VButton.vue'
 import { useCounterStore } from '@/stores/CounterStore'
 import { storeToRefs } from 'pinia'
 
